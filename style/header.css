@@ -11,3 +11,12 @@
     background-image: url("/img/Menu.svg");
     display: inline-block;
 }
+
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.container__imagem{
+    padding: 1em;
+}
