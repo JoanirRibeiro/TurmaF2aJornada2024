@@ -96,4 +96,7 @@
         display: none;
     }
 
+    .cabecalho__menu-hamburguer{
+        display: none;
+    }
 }
