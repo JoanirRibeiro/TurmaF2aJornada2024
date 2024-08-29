@@ -117,5 +117,9 @@
 @media screen and (min-width:1000px) {
     .container__link{
         display: flex;
+        align-items: center;
+        text-decoration: none;
+        color: var(--preto);
     }
+
 }
